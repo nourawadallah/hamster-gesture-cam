@@ -3,6 +3,7 @@
 Real-time gesture detection that triggers hamster reaction images using your webcam.
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)](https://www.python.org/)
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10.10-blue.svg)](https://mediapipe.dev/)
 
 
 ## Gestures
