@@ -38,5 +38,6 @@ Press `q` to quit.
 
 
 ## Upcoming
+- Fix glitches
 - More hamster reaction images
 - More gestures
